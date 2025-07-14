@@ -89,7 +89,7 @@ function Login() {
 
           <Link to="/forgot-password" className="forgot-password">Forgot Password?</Link>
 
-          <button type="submit" className="login-btn">LOGIN</button>
+          <button type="submit" className="login-btn">Login</button>
 
           <p className="signup-text">
             Don’t have an account? <Link to="/" className="signup-text-link">Sign up</Link>
